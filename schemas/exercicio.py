@@ -51,7 +51,7 @@ class ExercicioViewSchema(BaseModel):
     series: Optional[int] = 3
     repeticoes: int = 10
     quilos: float = 25.5
-    descricao:List[DescricaoSchema]
+    descricoes:List[DescricaoSchema]
 
 
 class ExercicioDelSchema(BaseModel):
