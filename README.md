@@ -1,6 +1,6 @@
 # Minha API
 
-Este é o MVP da disciplina de Desenvolvimento Full Stack Básico.
+Este é a API do MVP da disciplina de Desenvolvimento Full Stack Básico.
 
 ---
 ## Como executar 
